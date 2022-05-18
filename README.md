@@ -6,7 +6,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBaruch&layout=compact&langs_count=7&theme=shades-of-purple"/>
 </div>
 
-    ![Snake animation](https://github.com/rafaballerini/RebecaBaruch/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/RebecaBaruch/RebecaBaruch/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **RebecaBaruch/RebecaBaruch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
