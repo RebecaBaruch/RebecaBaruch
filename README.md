@@ -35,6 +35,12 @@
 </div>
 <br>
 
+##UX/UI - Portfólio:
+
+<a href="https://www.behance.net/becabaruch" target="_blank">
+  <img align="center" alt="behance" height="45" src="https://cdn.worldvectorlogo.com/logos/behance-2.svg"/>
+</a>  
+
 ##  :mailbox_with_no_mail: Meu linkedin:
 
 <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
