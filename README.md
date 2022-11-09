@@ -35,7 +35,7 @@
 </div>
 <br>
 
-## 💻 UX/UI - Portfólio:
+## 💻🖌️ UX/UI - Portfólio:
 
 <a href="https://www.behance.net/becabaruch" target="_blank">
   <img align="center" alt="behance" height="45" src="https://cdn.worldvectorlogo.com/logos/behance-2.svg"/>
