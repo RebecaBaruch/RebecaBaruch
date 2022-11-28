@@ -1,8 +1,13 @@
 ### Hello, world! 👋 Meu nome é Rebeca Baruch
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
-- :office: Estagiária Designer - Angelus (08/2022)
 - ⚡ Tenho 19 anos e estou estudando UX/UI, React JS e Python.<br>
+
+
+### Experiências
+- [] Compass UOL - Estagiária de desenvolvedora front-end (11/2021 - atualmente)
+- [x] Angelus - Estagiária Designer do setor de Marketing (08/2022 - 11/2022)
+
 
 <div align="left">
   <a href="https://github.com/RebecaBaruch">
