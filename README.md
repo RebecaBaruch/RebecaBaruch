@@ -13,7 +13,7 @@
 ### Formações
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
 - [ ] Codecademy - React JS
-- [ ] Huawei - Python (do básico ao avançado)
+- [x] Huawei - Python (do básico ao avançado)
 - [x] USP - UX / UI: Fundamentos para o design de interface
 - [x] CS50 Harvard
 - [x] Técnico em desenvolvimento de Sistemas - Etec
