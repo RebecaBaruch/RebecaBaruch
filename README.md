@@ -5,7 +5,7 @@
 
 
 ### Experiências
-- [ ] Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente)
+- [ ] Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente) <img align="center" alt="FIGMA" height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_CompassoUOL_Positivo.png">
 - [x] Angelus - Estagiária Designer do setor de Marketing (08/2022 - 11/2022)
 
 
