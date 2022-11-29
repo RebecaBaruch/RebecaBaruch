@@ -5,15 +5,8 @@
 
 
 ### Experiências
-- [ ] Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente) <img align="center" alt="FIGMA" height="45" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Logo_CompassoUOL_Positivo.png">
-- [x] Angelus - Estagiária Designer do setor de Marketing (08/2022 - 11/2022)
-
-
-<div align="left">
-  <a href="https://github.com/RebecaBaruch">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RebecaBaruch&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBaruch&layout=compact&langs_count=7&theme=shades-of-purple"/>
-</div>
+- [ ] Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente) <img align="center" alt="FIGMA" height="45" src="https://logospng.org/download/uol/logo-uol-icon-1024.png">
+- [x] Angelus - Estagiária Designer do setor de Marketing (08/2022 - 11/2022) <br>
   
 ### Formações
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
@@ -22,7 +15,12 @@
 - [x] USP - UX / UI: Fundamentos para o design de interface
 - [x] CS50 Harvard
 - [x] Técnico em desenvolvimento de Sistemas - Etec
- 
+
+ <div align="left">
+  <a href="https://github.com/RebecaBaruch">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RebecaBaruch&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBaruch&layout=compact&langs_count=7&theme=shades-of-purple"/>
+</div>
 <div align="left">  
 
   ## :computer: Habilidades:
