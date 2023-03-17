@@ -25,35 +25,31 @@
   ## :computer: Habilidades:
 
 <div style="display: inline_block">
-  <img align="center" alt="FIGMA" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
+  <img align="center" alt="FIGMA" height="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="TYPESCRIPT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="REACT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="REDUX" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />        
+  <img align ="center" alt="PHP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />    
   <img align="center" alt="BOOTSTRAP" height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="MYSQL" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-  <img align="center" alt="GIT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="GIT" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>       
   <img align="center" alt="PYTHON" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />                 
   
 </div>
 <br>
 
-## 💻🖌️ UX/UI - Portfólio:
-
-<a href="https://www.behance.net/becabaruch" target="_blank">
-  <img align="center" alt="behance" height="45" src="https://cdn.worldvectorlogo.com/logos/behance-2.svg"/>
-</a>  
-
-##  :mailbox_with_no_mail: Meu linkedin:
-
-<a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
-  <img align="center" alt="linkedin" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-</a>
-
-  
+##  💻🖌️ :mailbox_with_no_mail: Contato e portfólio:
+<div align="center">
+   <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+   </a>
+  <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
+    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
+  </a>
 </div>
-
 
 <!-- ![Snake animation](https://github.com/RebecaBaruch/RebecaBaruch/blob/output/github-contribution-grid-snake.svg)
   -->
