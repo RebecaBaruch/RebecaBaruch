@@ -5,7 +5,8 @@
 
 
 ### Experiências
-- [ ] <img align="center" alt="UOL LOGO" height="34" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente)
+- [ ] <img align="center" alt="UOL LOGO" height="33" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Desenvolvedora Full stack (11/2022 - atualmente)
+- [x] <img align="center" alt="UOL LOGO" height="33" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - atualmente)
 - [x] Angelus - Designer do setor de Marketing (08/2022 - 11/2022) <br>
   
 ### Formações
