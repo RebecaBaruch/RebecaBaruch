@@ -1,6 +1,6 @@
 ### Hello, world! 👋 Meu nome é Rebeca Baruch
 
-- :books: FATEC - Desenvolvimento de Software Multiplataforma - 2º Semestre (Cursando)
+- :books: FATEC - Desenvolvimento de Software Multiplataforma - 5º Semestre (Cursando)
 - ⚡ Tenho 19 anos e estou estudando UX/UI, React JS, Next JS e Node.<br>
 
 
