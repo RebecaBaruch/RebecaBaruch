@@ -1,8 +1,6 @@
 ### Hello, world! 👋 Meu nome é Rebeca Baruch
 
 - :books: FATEC - Desenvolvimento de Software Multiplataforma - 5º Semestre (Cursando)
-- ⚡ Tenho 19 anos e estou estudando UX/UI, React JS, Next JS e Node.<br>
-
 
 ### Experiências
 - [ ] <img align="center" alt="UOL LOGO" height="33" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Desenvolvedora Full stack (06/2022 - atualmente)
@@ -11,7 +9,7 @@
   
 ### Formações
 - [ ] Desenvolvimento de Software Multiplataforma - Fatec (Cursando)
-- [ ] Codecademy - React JS
+- [x] Codecademy - React JS
 - [x] Huawei - Python (do básico ao avançado)
 - [x] USP - UX / UI: Fundamentos para o design de interface
 - [x] CS50 Harvard
