@@ -1,15 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DB3FBE&size=35&center=true&vCenter=true&width=1000&lines=Hello+world,+I'm+Rebeca+Baruch)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaBaruch&show_icons=true&count_private=true&hide_border=true&title_color=DBC110&icon_color=DBC110&text_color=c9d1d9&bg_color=0d1117" alt="Rebeca Baruch github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBaruch&layout=compact&hide_border=true&title_color=DBC110&text_color=c9d1d9&bg_color=0d1117" />
-</div>
-
 <div align="center">  
 <hr>
 </div>
-  
-### Main skills:
+
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
@@ -46,4 +39,13 @@ ETEC - Desenvolvimento de Sistemas, 2021
   <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
     <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
   </a>
+</div>
+
+<div align="center">  
+<hr>
+</div>
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RebecaBaruch&show_icons=true&count_private=true&hide_border=true&title_color=DBC110&icon_color=DBC110&text_color=c9d1d9&bg_color=0d1117" alt="Rebeca Baruch github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RebecaBaruch&layout=compact&hide_border=true&title_color=DBC110&text_color=c9d1d9&bg_color=0d1117" />
 </div>
