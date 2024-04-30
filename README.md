@@ -32,14 +32,9 @@ ETEC - Desenvolvimento de Sistemas, 2021
 - [x] Angelus - Designer do setor de Marketing (08/2022 - 11/2022) <br>
   
 ### :mailbox_with_no_mail: Contact and portfolio:
-<div>
-   <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
-   </a>
-  <a href="https://br.linkedin.com/in/rebeca-baruch" target="_blank">
-    <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
-  </a>
-</div>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rebeca-baruch)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/becabaruch)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/berreca._.a/)
 
 <div align="center">  
 <hr>
