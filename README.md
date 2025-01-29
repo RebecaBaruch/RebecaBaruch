@@ -23,11 +23,11 @@
 </div>
 
 ### :books: Academic education:
-FATEC - Desenvolvimento de Software Multiplataforma, 5º Semestre (Cursando) <br>
+FATEC - Desenvolvimento de Software Multiplataforma, 2024 <br>
 ETEC - Desenvolvimento de Sistemas, 2021
 
 ### Professional experience:
-- [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Desenvolvedora Full stack (06/2022 - atualmente)
+- [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Web designer & Software Engineer (06/2023 - atualmente)
 - [x] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - 04/2023)
 - [x] Angelus - Designer do setor de Marketing (08/2022 - 11/2022) <br>
   
