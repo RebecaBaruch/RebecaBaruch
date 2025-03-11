@@ -27,9 +27,9 @@ FATEC - Desenvolvimento de Software Multiplataforma, 2024 <br>
 ETEC - Desenvolvimento de Sistemas, 2021
 
 ### Professional experience:
-- [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Web designer & Software Engineer (06/2023 - atualmente)
-- [x] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Estagiária de desenvolvimento front-end (11/2022 - 04/2023)
-- [x] Angelus - Designer do setor de Marketing (08/2022 - 11/2022) <br>
+- [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - UX/UI designer & Software Engineer (06/2023 - current)
+- [x] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Front End Intern (11/2022 - 04/2023)
+- [x] Angelus - Graphic Designer (08/2022 - 11/2022) <br>
   
 ### :mailbox_with_no_mail: Contact and portfolio:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/rebeca-baruch)
