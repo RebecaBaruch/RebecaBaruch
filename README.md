@@ -28,7 +28,7 @@ ETEC - Desenvolvimento de Sistemas, 2021
 
 ### Professional experience:
 - [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Product designer (10/2024 - current)
-- [ ] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Software Engineer (11/2022 - 10/2024)
+- [x] <img align="center" alt="UOL LOGO" height="23" src="https://logospng.org/download/uol/logo-uol-icon-1024.png"> Compass UOL - Software Engineer (11/2022 - 10/2024)
 - [x] Angelus - Graphic Designer (08/2022 - 11/2022) <br>
   
 ### :mailbox_with_no_mail: Contact and portfolio:
